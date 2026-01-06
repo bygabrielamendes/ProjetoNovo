@@ -69,7 +69,7 @@ public class EmailService {
 
     public static void main(String[] args) {
         // Agora os dados ficam aqui no main, deixando o método enviarComAnexo reutilizável
-        String destinatario = "gabriela@hdesk.com.br";
+        String destinatario = "gabriela@testesk.com.br";
         String titulo = "Arquivos de teste";
         String texto = "Segue os arquivos do cara x";
         String arquivo = "C:\\Users\\Suporte\\Desktop\\NFCe_XML_Dezembro_2025.zip";
