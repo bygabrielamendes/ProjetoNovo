@@ -2,7 +2,12 @@ import jakarta.mail.*;
 import jakarta.mail.internet.*;
 import java.util.Properties;
 import java.io.File;
+/* para adicionar essas bibliotecas segue o passo a passo:
+Pressione Ctrl + Shift + P.
 
+Digite "Java: Configure Java Runtime".
+em Libraries adicione os 5 arquivos da pasta
+e salve. */
 public class EmailService {
 
     public static void enviarComAnexo(String para, String assunto, String mensagem, String caminhoAnexo) {
