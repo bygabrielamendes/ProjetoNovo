@@ -1,0 +1,12 @@
+{
+    "java.project.sourcePaths": [
+        "."
+    ],
+    "java.project.referencedLibraries": [
+        "angus-activation-2.0.2.jar",
+        "c:\\ProjetoNovo\\jakarta.mail-2.0.3.jar",
+        "c:\\ProjetoNovo\\jakarta.activation-api-2.1.3.jar",
+        "c:\\ProjetoNovo\\angus-mail-2.0.2.jar",
+        "c:\\ProjetoNovo\\jakarta.mail-api-2.1.2.jar"
+    ]
+}
