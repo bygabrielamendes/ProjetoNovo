@@ -3,3 +3,6 @@ https://repo1.maven.org/maven2/jakarta/activation/jakarta.activation-api/2.1.3/
 https://repo1.maven.org/maven2/org/eclipse/angus/jakarta.mail/2.0.3/
 https://repo1.maven.org/maven2/org/eclipse/angus/angus-mail/2.0.2/
 https://repo1.maven.org/maven2/jakarta/mail/jakarta.mail-api/2.1.2/
+
+executar no terminal: 
+java -cp ".;jakarta.mail-api-2.1.2.jar;angus-mail-2.0.2.jar;jakarta.mail-2.0.3.jar;jakarta.activation-api-2.1.3.jar;angus-activation-2.0.2.jar" EmailService
