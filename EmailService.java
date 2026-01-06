@@ -12,8 +12,8 @@ public class EmailService {
 
     public static void enviarComAnexo(String para, String assunto, String mensagem, String caminhoAnexo) {
         // Dados da conta (Remetente)
-        final String usuario = "noreply.helpdesksantos@gmail.com";
-        final String senha = "ungirihzcmyypjgb"; 
+        final String usuario = "seuemailgmail.com";
+        final String senha = "senhapjgb"; 
 
         Properties props = new Properties();
         props.put("mail.smtp.auth", "true");
